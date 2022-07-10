@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JhonCreative
-- 👀 I’m interested in 
-- 🌱 I’m currently learning  Ingenieria de Sistemas,  Diseño grafico
+- 👀 I’m interested in learning about new technologies.
+- 🌱 I’m currently learning Systems Engineering, Graphic Design and I am also self-taught.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me for email jhoncalsina51@gmail.com
 
